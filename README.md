@@ -21,7 +21,7 @@ A RAG-based AI research assistant that intelligently answers user queries by ret
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/research-assistant.git
+git clone https://github.com//ako1983/LLM-Research-Assistant.git
 cd research-assistant
 
 # Install dependencies
