@@ -1,5 +1,5 @@
 
-# LLM-Powered Research Assistant
+# 📚 LLM-Powered Research Assistant 🤖
 
 An AI-powered research assistant that leverages Retrieval-Augmented Generation (RAG) to provide accurate responses to user queries by retrieving relevant documents and reasoning through complex questions.
 
