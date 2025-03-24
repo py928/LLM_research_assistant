@@ -36,8 +36,8 @@ An AI-powered research assistant that leverages Retrieval-Augmented Generation (
 1. Clone the repository
 
 ```bash
-git clone https://github.com/ako1983/research-assistant.git
-cd research-assistant
+git clone https://github.com/ako1983//LLM_research_assistant.git
+cd /LLM_research_assistant
 ```
 
 2. Install dependencies
