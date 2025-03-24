@@ -36,8 +36,8 @@ An AI-powered research assistant that leverages Retrieval-Augmented Generation (
 1. Clone the repository
 
 ```bash
-git clone https://github.com/[your-username]/llm-research-assistant.git
-cd llm-research-assistant
+git clone https://github.com/ako1983/research-assistant.git
+cd research-assistant
 ```
 
 2. Install dependencies
@@ -116,13 +116,7 @@ The system uses DSPy's evaluation framework to assess:
 - Context relevance
 - Reasoning quality
 
-## License
-
-MIT
-
 ## Acknowledgements
 
 - Data sourced from [Bitext Customer Support Dataset](https://huggingface.co/datasets/bitext/Bitext-customer-support-llm-chatbot-training-dataset)
 - Built for an assessment
-
-```
