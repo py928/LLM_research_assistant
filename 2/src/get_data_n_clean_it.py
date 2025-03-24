@@ -50,8 +50,9 @@ import tiktoken
 
 # --- STEP 1: Data Preparation (Cleaning) ---
 
-# /Bitext_Sample_Customer_Support_Training_Dataset_27K_responses-v11.csv
-raw_file = "sample_data.csv"
+raw_file = /Bitext_Sample_Customer_Support_Training_Dataset_27K_responses-v11.csv
+# i have the data here downloaded and saved as sample data
+#raw_file = "sample_data.csv"
 cleaned_file = "cleaned_data.csv"
 
 # Check if cleaned file already exists
