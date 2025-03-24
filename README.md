@@ -116,13 +116,7 @@ The system uses DSPy's evaluation framework to assess:
 - Context relevance
 - Reasoning quality
 
-## License
-
-MIT
-
 ## Acknowledgements
 
 - Data sourced from [Bitext Customer Support Dataset](https://huggingface.co/datasets/bitext/Bitext-customer-support-llm-chatbot-training-dataset)
 - Built for an assessment
-
-```
